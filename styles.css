@@ -1,0 +1,26 @@
+#technologies {
+    margin: 20px;
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+  .technology-card {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .technology-card img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .technology-card p {
+    margin: 0;
+  }
+  
