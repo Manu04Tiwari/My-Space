@@ -1,7 +1,7 @@
 /*--about*/
 #about{
     padding: 80px 0;
-    color: rgb(217, 24, 201);
+    color: rgb(243, 176, 234);
 }
 .row{
     display: flex;
@@ -27,7 +27,7 @@
 .sub-title{
     font-size: 60px;
     font-weight:600 ;
-    color:rgb(217, 24, 201);
+    color:rgb(237, 60, 243);
 }
 
 #about p{
@@ -57,7 +57,7 @@
     content: '';
     width: 0;
     height: 3px;
-    background:rgb(217, 24, 201);
+    background:rgb(236, 30, 209);
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -77,7 +77,7 @@
 
 }
 .tab-contents ul li span{
-    color: rgb(217, 85, 180);
+    color: rgb(248, 77, 220);
     font-size: 20px;
 
 }
