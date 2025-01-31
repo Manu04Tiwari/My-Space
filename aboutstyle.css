@@ -1,7 +1,7 @@
 /*--about*/
 #about{
     padding: 80px 0;
-    color: rgb(243, 176, 234);
+    color: rgb(150, 197, 247);
 }
 .row{
     display: flex;
@@ -27,7 +27,7 @@
 .sub-title{
     font-size: 60px;
     font-weight:600 ;
-    color:rgb(237, 60, 243);
+    color:rgb(21, 158, 212);
 }
 
 #about p{
@@ -57,7 +57,7 @@
     content: '';
     width: 0;
     height: 3px;
-    background:rgb(236, 30, 209);
+    background:rgb(37, 188, 248);
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -77,7 +77,7 @@
 
 }
 .tab-contents ul li span{
-    color: rgb(248, 77, 220);
+    color: rgb(37, 188, 248);
     font-size: 20px;
 
 }
@@ -88,4 +88,22 @@
 
 .tab-contents.active-tab{
     display: block;
+}
+
+.navbar-nav li a {
+  color: rgb(0, 123, 255); /* Change to blue */
+}
+
+.layer h3 {
+  color: #007bff; /* Change to blue */
+}
+
+.layer p {
+  color: #6c757d; /* Change to a lighter blue or beige */
+}
+
+.btn-default {
+  background-color: #007bff; /* Change to blue */
+  border-color: #007bff; /* Change to blue */
+  color: #fff;
 }
