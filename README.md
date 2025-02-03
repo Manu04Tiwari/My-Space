@@ -1,42 +1,44 @@
-# Dev Voyager Portfolio Website
+# My Space Portfolio Website
 
-Welcome to the Car_Enthusiast Portfolio Website! This website displays my skills, qualifications, and journey as a software developer. Whether you're here to learn more about my expertise or explore my projects, I'm thrilled to have you on board. Let's embark on this digital journey together!
+Welcome to the My Space!! This website displays my skills, qualifications, and journey as a Software Developer. I'm excited to have you here..!! Where have you been so long,I know you came here to learn more about my expertise or explore my projects. So yeah....Let's embark on this beautiful journey together!
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Skills](#skills)
 - [Projects](#projects)
+- [My Services](#Services)
 - [Qualifications](#qualifications)
 - [Contact](#contact)
 
 ## Introduction
 
-As a passionate developer, I've embarked on a voyage of discovery, learning, and creation in the world of technology. This portfolio website offers a glimpse into my journey, highlighting the skills I've acquired, the projects I've undertaken, and the qualifications that define my expertise.
+As a passionate developer by heart, I've embarked on a journey of discovery, learning, and innovation in the world of technology. My Space offers a glimpse into my voyage, highlighting the skills I've learnt, the projects I've worked on, and the qualifications a.k.a eligibility that defines my expertise.
 
 ## Skills
 
-My journey has led me to master a diverse set of skills, including:
+My journey so far has led me to master a diverse set of skills, including:
 
-- Web Development (HTML, CSS, JavaScript)
+- Web Development (HTML, CSS, JavaScript, AngularJS)
 - Backend Development (Node.js, Express)
 - Database Management (MongoDB, MySQL)
 - Cloud Computing (AWS, Azure)
-- DevOps and CI/CD
+- DevOps and CI/CD pipeline 
 - Problem Solving and Algorithmic Thinking
+- Pattern Matching and finding solutions 
 
 ## Projects
 
-Explore a collection of projects that showcase my creativity and technical prowess. From web applications to innovative software solutions, each project represents a unique challenge I've embraced and conquered.
+Explore the diverse set of projects that showcase my creativity and technical prowess. From web applications to innovative software solutions, each project represented a unique challenge I've embraced and conquered.
 
 ## Qualifications
 
 My qualifications include:
 
 - Bachelor's Degree in Computer Science
-- Certifications in Web Development and Cloud Computing
+- Several Certifications in Web Development,Cloud Computing and Cybersecurity 
 - Hackathons and Coding Competitions
 
 ## Contact
 
-Let's connect and explore opportunities together. Feel free to reach out to me via [email](akshayne912@email.com) or [LinkedIn](https://www.linkedin.com/in/akshay-kumar-sharma-37aa55256). I look forward to engaging in exciting discussions and collaborations!
+Let's connect and explore opportunities together. Feel free to reach out to me via [Email](marttiwari8219@gmail.com) or [LinkedIn](https://www.linkedin.com/in/manu-tiwari-89161725a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app). I look forward to engaging in exciting discussions and collaborations!
