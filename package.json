@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node servesmail.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"Building the project...\" && mkdir -p public && cp -r * public"
+    "build": "echo \"Building...\" && exit 0"
   },
   "author": "",
   "license": "ISC",
