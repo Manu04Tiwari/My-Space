@@ -95,15 +95,14 @@
 }
 
 .layer h3 {
-  color: #007bff; /* Change to blue */
-}
+  color: #007bff; 
 
 .layer p {
-  color: #6c757d; /* Change to a lighter blue or beige */
+  color: #6c757d; 
 }
 
 .btn-default {
-  background-color: #007bff; /* Change to blue */
-  border-color: #007bff; /* Change to blue */
+  background-color: #007bff; 
+  border-color: #007bff; 
   color: #fff;
 }
